@@ -1,0 +1,5729 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F33AFA81B114712E1B',
+    participant: undefined
+  },
+  messageTimestamp: 1693787097,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Dámelo',
+  body: '1',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C13BD58D026EFE1A0C',
+    participant: undefined
+  },
+  messageTimestamp: 1693787106,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03C981E4FC3B897F3DB',
+    participant: undefined
+  },
+  messageTimestamp: 1693787114,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904f2596-c924-4f04-bba3-099541d39272',
+  keyword: 'key_a0bd4871-b425-4b5d-afb8-1eae82a10412',
+  answer: '🙌 Para brindarnos tu comentario, PQR o reseña puedes escribirnos en:\n' +
+    ' \n' +
+    '✔️ https://www.bullmarketing.com.co/contactenos/\n' +
+    ' \n' +
+    'También a nuestro correo electrónico:\n' +
+    ' \n' +
+    '✔️ info@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab53e0ca585e0a75e7115c62262b9368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08057F31B92A8595C5A',
+    participant: undefined
+  },
+  messageTimestamp: 1693787125,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FF72C9C444D49AC582',
+    participant: undefined
+  },
+  messageTimestamp: 1693787130,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5fcc725c-5b9b-41d5-b52b-7fb8a3b885e3',
+  keyword: 'key_a2475f45-a2cd-495b-aae0-9732d4317fb9',
+  answer: '¡Claro! Estamos aquí para brindarte el mejor acompañamiento dentro de tus procesos de selección y nómina, para ello puedes seleccionar alguna de la siguientes opciones:\n' +
+    ' \n' +
+    'Nómina y seguridad social:\n' +
+    ' \n' +
+    '☞ https://hab.me/hqdNmzC\n' +
+    ' \n' +
+    'Contratación y afiliaciones:\n' +
+    ' \n' +
+    '☞ https://hab.me/lyIqKnS\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '787d2411b045ef41f60427614200ebed'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09AC4CF8D276C96AE43',
+    participant: undefined
+  },
+  messageTimestamp: 1693787133,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0520FFA46DFCC7BA7AA',
+    participant: undefined
+  },
+  messageTimestamp: 1693787144,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '6',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fd86a599-698e-4df1-b450-c1149fc72e8e',
+  keyword: 'key_f3795eb2-2d58-4c04-9814-d656c9d94e6c',
+  answer: '🙌 ¡Claro! ingresa al siguiente enlace que te direccionará con la persona del área encargada de tesorería:\n' +
+    ' \n' +
+    '☞ https://bit.ly/3YzxWF0\n' +
+    ' \n' +
+    'También puedes escribirnos a los siguiente correo:\n' +
+    ' \n' +
+    '☞ tesoreria@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e24fb213e6cb68422f54376d244d1d92'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB061913FAAE58C0E9FBE',
+    participant: undefined
+  },
+  messageTimestamp: 1693787148,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '7',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FCB6C7E062261C148E',
+    participant: undefined
+  },
+  messageTimestamp: 1693787154,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '8',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '8',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fae1e527-5178-4a7e-a72e-fffe245206fc',
+  keyword: 'key_58b9ee95-e0d7-4d7d-9b79-fcf382365bb4',
+  answer: '🙌 Claro! permítenos gestionar tu solicitud de *certificación laboral* para ello compártenos:\n' +
+    ' \n' +
+    '1. Número de documento\n' +
+    '2. Nombres y Apellidos Completos\n' +
+    '3. Correo electrónico\n' +
+    '4. Proyecto\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '633d2ae292c9790eb879c850d59796d0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00C2942E184723E9F09',
+    participant: undefined
+  },
+  messageTimestamp: 1693787166,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '9',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '9',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09ED917CC5D70FF1EC4',
+    participant: undefined
+  },
+  messageTimestamp: 1693787175,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'RECEPCION',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'RECEPCION',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_48cfcbb4-463a-43de-97f2-66a8b6f85331',
+  keyword: 'key_8aaf58e7-1898-4fdb-bcf8-995142b75a28',
+  answer: 'En un momento nos pondremos en contacto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '40620920ecd0f1d5b4d5d73401269f8e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09CBF1A15FC39B8A6F1',
+    participant: undefined
+  },
+  messageTimestamp: 1693787185,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'aGentE',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'aGentE',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_48cfcbb4-463a-43de-97f2-66a8b6f85331',
+  keyword: 'key_8aaf58e7-1898-4fdb-bcf8-995142b75a28',
+  answer: 'En un momento nos pondremos en contacto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '40620920ecd0f1d5b4d5d73401269f8e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B513465F72EFB74C9D',
+    participant: undefined
+  },
+  messageTimestamp: 1693787191,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'asesor',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'asesor',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0484EFC6D636BF9A5F4',
+    participant: undefined
+  },
+  messageTimestamp: 1693787198,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0042F1EA9E6741DF743',
+    participant: undefined
+  },
+  messageTimestamp: 1693787214,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904f2596-c924-4f04-bba3-099541d39272',
+  keyword: 'key_a0bd4871-b425-4b5d-afb8-1eae82a10412',
+  answer: '🙌 Para brindarnos tu comentario, PQR o reseña puedes escribirnos en:\n' +
+    ' \n' +
+    '✔️ https://www.bullmarketing.com.co/contactenos/\n' +
+    ' \n' +
+    'También a nuestro correo electrónico:\n' +
+    ' \n' +
+    '✔️ info@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab53e0ca585e0a75e7115c62262b9368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB081C7F02CE767EC7C92',
+    participant: undefined
+  },
+  messageTimestamp: 1693787226,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB018C3443831741ABD69',
+    participant: undefined
+  },
+  messageTimestamp: 1693787257,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'vacantes',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'vacantes',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d104f106-267a-4339-92f5-5e546e68792c',
+  keyword: 'key_a36cb7b8-4f03-44cf-b52c-cd4a6b1a825b',
+  answer: '🚀 Para trabajar con nosotros es muy sencillo, compártenos tu hoja de vida indicando el puesto que deseas ocupar o para la vacante en la cuál deseas participar en los siguientes correos:\n' +
+    ' \n' +
+    '➜📬 alejandra.quintero@bullmarketing.com.co\n' +
+    '➜📬 kimberly.parra@bullmarketing.com.co\n' +
+    ' \n' +
+    'O también puedes diligenciar el siguiente formulario:\n' +
+    ' \n' +
+    '📝 https://www.bullmarketing.com.co/formulario-hoja-de-vida/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b38a2f03af938e9834f6bbf85ee23ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB049BFAAE0BEB092425E',
+    participant: undefined
+  },
+  messageTimestamp: 1693787261,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CA05B8646DCFBFE13A',
+    participant: undefined
+  },
+  messageTimestamp: 1693787270,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09EF9B6556DF7CEEEB6',
+    participant: undefined
+  },
+  messageTimestamp: 1693787280,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C84E17352EB9C7199D',
+    participant: undefined
+  },
+  messageTimestamp: 1693787298,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '7',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_816479d0-df8e-4e79-bf2d-cb8e9dd8e87a',
+  keyword: 'key_de9b015f-aa1a-4878-b823-f5e8e05f3f11',
+  answer: '🙌 ¡Claro! ingresa al siguiente enlace que te direccionará con la persona del área encargada de proveedores y compras:\n' +
+    ' \n' +
+    '☞ https://hab.me/kUsyXZ9\n' +
+    ' \n' +
+    'También puedes escribirnos a los siguiente correo:\n' +
+    ' \n' +
+    '☞ Compras@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79a0cb922daf2856b88e39b4effc2e65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D56B3197127ACEE197',
+    participant: undefined
+  },
+  messageTimestamp: 1693787314,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '6',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D925A782986FB58B8D',
+    participant: undefined
+  },
+  messageTimestamp: 1693787353,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'tesoreria',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'tesoreria',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0394A78A12FE5C5F083',
+    participant: undefined
+  },
+  messageTimestamp: 1693787364,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Tesorería',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tesorería',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B7FD8631A3FBBC9069',
+    participant: undefined
+  },
+  messageTimestamp: 1693787402,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d104f106-267a-4339-92f5-5e546e68792c',
+  keyword: 'key_a36cb7b8-4f03-44cf-b52c-cd4a6b1a825b',
+  answer: '🚀 Para trabajar con nosotros es muy sencillo, compártenos tu hoja de vida indicando el puesto que deseas ocupar o para la vacante en la cuál deseas participar en los siguientes correos:\n' +
+    ' \n' +
+    '➜📬 alejandra.quintero@bullmarketing.com.co\n' +
+    '➜📬 kimberly.parra@bullmarketing.com.co\n' +
+    ' \n' +
+    'O también puedes diligenciar el siguiente formulario:\n' +
+    ' \n' +
+    '📝 https://www.bullmarketing.com.co/formulario-hoja-de-vida/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b38a2f03af938e9834f6bbf85ee23ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0771432DB3DF6741575',
+    participant: undefined
+  },
+  messageTimestamp: 1693787408,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09D1CA2AE47FD35DACD',
+    participant: undefined
+  },
+  messageTimestamp: 1693787419,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'cotización',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'cotización',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB063F0B946F41E72D0B2',
+    participant: undefined
+  },
+  messageTimestamp: 1693787429,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB041E9701C07E2FE4E9F',
+    participant: undefined
+  },
+  messageTimestamp: 1693787433,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'tres',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'tres',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AB0AE91F08E7217FE2',
+    participant: undefined
+  },
+  messageTimestamp: 1693787442,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01701E018C95E665118',
+    participant: undefined
+  },
+  messageTimestamp: 1693787454,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'comentarios',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'comentarios',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904f2596-c924-4f04-bba3-099541d39272',
+  keyword: 'key_a0bd4871-b425-4b5d-afb8-1eae82a10412',
+  answer: '🙌 Para brindarnos tu comentario, PQR o reseña puedes escribirnos en:\n' +
+    ' \n' +
+    '✔️ https://www.bullmarketing.com.co/contactenos/\n' +
+    ' \n' +
+    'También a nuestro correo electrónico:\n' +
+    ' \n' +
+    '✔️ info@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab53e0ca585e0a75e7115c62262b9368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01C6AED5347D28B2C2F',
+    participant: undefined
+  },
+  messageTimestamp: 1693787464,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'recurso humano',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'recurso humano',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00C2922B56A230C7FAC',
+    participant: undefined
+  },
+  messageTimestamp: 1693787477,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5fcc725c-5b9b-41d5-b52b-7fb8a3b885e3',
+  keyword: 'key_a2475f45-a2cd-495b-aae0-9732d4317fb9',
+  answer: '¡Claro! Estamos aquí para brindarte el mejor acompañamiento dentro de tus procesos de selección y nómina, para ello puedes seleccionar alguna de la siguientes opciones:\n' +
+    ' \n' +
+    'Nómina y seguridad social:\n' +
+    ' \n' +
+    '☞ https://hab.me/hqdNmzC\n' +
+    ' \n' +
+    'Contratación y afiliaciones:\n' +
+    ' \n' +
+    '☞ https://hab.me/lyIqKnS\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '787d2411b045ef41f60427614200ebed'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B9254D9B7E7DEEC176',
+    participant: undefined
+  },
+  messageTimestamp: 1693787501,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07E8D1C21F0380F5EAB',
+    participant: undefined
+  },
+  messageTimestamp: 1693787531,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'contabilidad',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'contabilidad',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ab389458-f48f-4ebc-af9c-c5fa67c87255',
+  keyword: 'key_cac8c63f-4178-4b46-a887-76feddf7410b',
+  answer: '🙌 ¡Claro! ingresa al siguiente enlace que te direccionará con la persona del área encargada de contabilidad:\n' +
+    ' \n' +
+    '☞ https://bit.ly/3YCPIHx\n' +
+    ' \n' +
+    'También puedes escribirnos a los siguientes correos:\n' +
+    ' \n' +
+    '☞ contadores@bullmarketing.com.co\n' +
+    '☞ contabilidad@v2vmarketing.com\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '52ffc25022d15364946b32f5d1553492'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BB6EF77AB1ACEE0AD3',
+    participant: undefined
+  },
+  messageTimestamp: 1693787555,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'RRHH',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'RRHH',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09A2E8EFD088B179C35',
+    participant: undefined
+  },
+  messageTimestamp: 1693787563,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5fcc725c-5b9b-41d5-b52b-7fb8a3b885e3',
+  keyword: 'key_a2475f45-a2cd-495b-aae0-9732d4317fb9',
+  answer: '¡Claro! Estamos aquí para brindarte el mejor acompañamiento dentro de tus procesos de selección y nómina, para ello puedes seleccionar alguna de la siguientes opciones:\n' +
+    ' \n' +
+    'Nómina y seguridad social:\n' +
+    ' \n' +
+    '☞ https://hab.me/hqdNmzC\n' +
+    ' \n' +
+    'Contratación y afiliaciones:\n' +
+    ' \n' +
+    '☞ https://hab.me/lyIqKnS\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '787d2411b045ef41f60427614200ebed'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB054BEA2E42CCC8BE304',
+    participant: undefined
+  },
+  messageTimestamp: 1693787569,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '465',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '465',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0458D9A96484A545EC6',
+    participant: undefined
+  },
+  messageTimestamp: 1693787572,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d104f106-267a-4339-92f5-5e546e68792c',
+  keyword: 'key_a36cb7b8-4f03-44cf-b52c-cd4a6b1a825b',
+  answer: '🚀 Para trabajar con nosotros es muy sencillo, compártenos tu hoja de vida indicando el puesto que deseas ocupar o para la vacante en la cuál deseas participar en los siguientes correos:\n' +
+    ' \n' +
+    '➜📬 alejandra.quintero@bullmarketing.com.co\n' +
+    '➜📬 kimberly.parra@bullmarketing.com.co\n' +
+    ' \n' +
+    'O también puedes diligenciar el siguiente formulario:\n' +
+    ' \n' +
+    '📝 https://www.bullmarketing.com.co/formulario-hoja-de-vida/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b38a2f03af938e9834f6bbf85ee23ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB042F7CBA6C95D1C41E0',
+    participant: undefined
+  },
+  messageTimestamp: 1693787578,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '698',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '698',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0928C6DEADA37C3F284',
+    participant: undefined
+  },
+  messageTimestamp: 1693787579,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03C5500408F80C01A5A',
+    participant: undefined
+  },
+  messageTimestamp: 1693787583,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '56468',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '56468',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09499FF81879E41CB17',
+    participant: undefined
+  },
+  messageTimestamp: 1693787586,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904f2596-c924-4f04-bba3-099541d39272',
+  keyword: 'key_a0bd4871-b425-4b5d-afb8-1eae82a10412',
+  answer: '🙌 Para brindarnos tu comentario, PQR o reseña puedes escribirnos en:\n' +
+    ' \n' +
+    '✔️ https://www.bullmarketing.com.co/contactenos/\n' +
+    ' \n' +
+    'También a nuestro correo electrónico:\n' +
+    ' \n' +
+    '✔️ info@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab53e0ca585e0a75e7115c62262b9368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04C2E9E3636FCF6A505',
+    participant: undefined
+  },
+  messageTimestamp: 1693787642,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A8E6E0986DBC5A8182',
+    participant: undefined
+  },
+  messageTimestamp: 1693787645,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB019A2318536AB065D9F',
+    participant: undefined
+  },
+  messageTimestamp: 1693787647,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DAF81BA82FEFBC4F10',
+    participant: undefined
+  },
+  messageTimestamp: 1693787649,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d104f106-267a-4339-92f5-5e546e68792c',
+  keyword: 'key_a36cb7b8-4f03-44cf-b52c-cd4a6b1a825b',
+  answer: '🚀 Para trabajar con nosotros es muy sencillo, compártenos tu hoja de vida indicando el puesto que deseas ocupar o para la vacante en la cuál deseas participar en los siguientes correos:\n' +
+    ' \n' +
+    '➜📬 alejandra.quintero@bullmarketing.com.co\n' +
+    '➜📬 kimberly.parra@bullmarketing.com.co\n' +
+    ' \n' +
+    'O también puedes diligenciar el siguiente formulario:\n' +
+    ' \n' +
+    '📝 https://www.bullmarketing.com.co/formulario-hoja-de-vida/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b38a2f03af938e9834f6bbf85ee23ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB067F5BB9ABB1B2F8EEE',
+    participant: undefined
+  },
+  messageTimestamp: 1693787651,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D78F74309AEC2B9F69',
+    participant: undefined
+  },
+  messageTimestamp: 1693787652,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904f2596-c924-4f04-bba3-099541d39272',
+  keyword: 'key_a0bd4871-b425-4b5d-afb8-1eae82a10412',
+  answer: '🙌 Para brindarnos tu comentario, PQR o reseña puedes escribirnos en:\n' +
+    ' \n' +
+    '✔️ https://www.bullmarketing.com.co/contactenos/\n' +
+    ' \n' +
+    'También a nuestro correo electrónico:\n' +
+    ' \n' +
+    '✔️ info@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab53e0ca585e0a75e7115c62262b9368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB044E84C54D163B7E60A',
+    participant: undefined
+  },
+  messageTimestamp: 1693787655,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A6119A63700589F861',
+    participant: undefined
+  },
+  messageTimestamp: 1693787656,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5fcc725c-5b9b-41d5-b52b-7fb8a3b885e3',
+  keyword: 'key_a2475f45-a2cd-495b-aae0-9732d4317fb9',
+  answer: '¡Claro! Estamos aquí para brindarte el mejor acompañamiento dentro de tus procesos de selección y nómina, para ello puedes seleccionar alguna de la siguientes opciones:\n' +
+    ' \n' +
+    'Nómina y seguridad social:\n' +
+    ' \n' +
+    '☞ https://hab.me/hqdNmzC\n' +
+    ' \n' +
+    'Contratación y afiliaciones:\n' +
+    ' \n' +
+    '☞ https://hab.me/lyIqKnS\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '787d2411b045ef41f60427614200ebed'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06AD78F71151B97157F',
+    participant: undefined
+  },
+  messageTimestamp: 1693787658,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FDDDF9AC71BA41AC3A',
+    participant: undefined
+  },
+  messageTimestamp: 1693787660,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ab389458-f48f-4ebc-af9c-c5fa67c87255',
+  keyword: 'key_cac8c63f-4178-4b46-a887-76feddf7410b',
+  answer: '🙌 ¡Claro! ingresa al siguiente enlace que te direccionará con la persona del área encargada de contabilidad:\n' +
+    ' \n' +
+    '☞ https://bit.ly/3YCPIHx\n' +
+    ' \n' +
+    'También puedes escribirnos a los siguientes correos:\n' +
+    ' \n' +
+    '☞ contadores@bullmarketing.com.co\n' +
+    '☞ contabilidad@v2vmarketing.com\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '52ffc25022d15364946b32f5d1553492'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A8146DBA201F11D398',
+    participant: undefined
+  },
+  messageTimestamp: 1693787662,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '6',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A9806EA1308139589A',
+    participant: undefined
+  },
+  messageTimestamp: 1693787663,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '6',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fd86a599-698e-4df1-b450-c1149fc72e8e',
+  keyword: 'key_f3795eb2-2d58-4c04-9814-d656c9d94e6c',
+  answer: '🙌 ¡Claro! ingresa al siguiente enlace que te direccionará con la persona del área encargada de tesorería:\n' +
+    ' \n' +
+    '☞ https://bit.ly/3YzxWF0\n' +
+    ' \n' +
+    'También puedes escribirnos a los siguiente correo:\n' +
+    ' \n' +
+    '☞ tesoreria@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e24fb213e6cb68422f54376d244d1d92'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08011AC549CF1021015',
+    participant: undefined
+  },
+  messageTimestamp: 1693787666,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '7',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05EBDD47C29F036DFA8',
+    participant: undefined
+  },
+  messageTimestamp: 1693787668,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '7',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_816479d0-df8e-4e79-bf2d-cb8e9dd8e87a',
+  keyword: 'key_de9b015f-aa1a-4878-b823-f5e8e05f3f11',
+  answer: '🙌 ¡Claro! ingresa al siguiente enlace que te direccionará con la persona del área encargada de proveedores y compras:\n' +
+    ' \n' +
+    '☞ https://hab.me/kUsyXZ9\n' +
+    ' \n' +
+    'También puedes escribirnos a los siguiente correo:\n' +
+    ' \n' +
+    '☞ Compras@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79a0cb922daf2856b88e39b4effc2e65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A08F7375FE61E06A7B',
+    participant: undefined
+  },
+  messageTimestamp: 1693787670,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '8',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '8',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB019DDE4ED4BAC310DD0',
+    participant: undefined
+  },
+  messageTimestamp: 1693787672,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '8',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '8',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fae1e527-5178-4a7e-a72e-fffe245206fc',
+  keyword: 'key_58b9ee95-e0d7-4d7d-9b79-fcf382365bb4',
+  answer: '🙌 Claro! permítenos gestionar tu solicitud de *certificación laboral* para ello compártenos:\n' +
+    ' \n' +
+    '1. Número de documento\n' +
+    '2. Nombres y Apellidos Completos\n' +
+    '3. Correo electrónico\n' +
+    '4. Proyecto\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '633d2ae292c9790eb879c850d59796d0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BD8C577ED023C1EAEF',
+    participant: undefined
+  },
+  messageTimestamp: 1693787675,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '9',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '9',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB048BA92A84BD81B972B',
+    participant: undefined
+  },
+  messageTimestamp: 1693787677,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '9',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '9',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09482547B7DC585F404',
+    participant: undefined
+  },
+  messageTimestamp: 1693787684,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB077073E214E5EA3EF34',
+    participant: undefined
+  },
+  messageTimestamp: 1693787806,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  keyword: 'key_655ba57e-6c58-46a7-9c4e-62351ed2d45f',
+  answer: 'Hola 👋, bienvenido a Bull Marketing la agencia donde ¡siempre se puede!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '469b3bda14c7d4129a77f45209482b87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  keyword: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  answer: 'Para brindarte un servicio más personalizado compartenos los siguientes datos:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79b5a4a6ef2721ddf5eac4bc7d26fbc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  keyword: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  answer: '¿Cúal es tu nombre completo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '13c29a85336c11934a3ccfdcaa8a6311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D777C992C641054FBB',
+    participant: undefined
+  },
+  messageTimestamp: 1693787811,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  keyword: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  answer: '¿Cúal es tu número telefónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c43f405156b62f399a15cb4c56f08ef2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05269B1DC0109EBC778',
+    participant: undefined
+  },
+  messageTimestamp: 1693787816,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3102969532',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3102969532',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09AE2427560886DC850',
+    participant: undefined
+  },
+  messageTimestamp: 1693787830,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james',
+  from: '573102969532'
+}
+Error al encolar: undefined
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0413F14996F82834E9E',
+    participant: undefined
+  },
+  messageTimestamp: 1693787848,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james@james',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james@james',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dbcf4bce-7ba7-48f6-b884-be88888b0153',
+  keyword: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  answer: '¡Comencemos! ¿En que te podemos ayudar? 🙌\n' +
+    'Estas son nuestras opciones:\n' +
+    ' \n' +
+    '👉 *1.Cotizar* Deseo cotizar un servicio.\n' +
+    '👉 *2.Vacantes* Deseo trabajar con ustedes.\n' +
+    '👉 *3.Comentario* Deseo dejar un comentario.\n' +
+    '👉 *4.RRHH* Deseo comunicarme con Recurso Humano.\n' +
+    '👉 *5.Contabilidad* Deseo comunicarme con Contabilidad.\n' +
+    '👉 *6.Tesorería* Deseo comunicarme con Tesorería.\n' +
+    '👉 *7.Proveedores* Deseo comunicarme con Proveedores y Compras.\n' +
+    '👉 *8.Certificaciones* Certificaciones laborales',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '314ed6fb594b011d4bafbc61be5d95ad'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0ADE2EB96C9D25F379C',
+    participant: undefined
+  },
+  messageTimestamp: 1693787851,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d104f106-267a-4339-92f5-5e546e68792c',
+  keyword: 'key_a36cb7b8-4f03-44cf-b52c-cd4a6b1a825b',
+  answer: '🚀 Para trabajar con nosotros es muy sencillo, compártenos tu hoja de vida indicando el puesto que deseas ocupar o para la vacante en la cuál deseas participar en los siguientes correos:\n' +
+    ' \n' +
+    '➜📬 alejandra.quintero@bullmarketing.com.co\n' +
+    '➜📬 kimberly.parra@bullmarketing.com.co\n' +
+    ' \n' +
+    'O también puedes diligenciar el siguiente formulario:\n' +
+    ' \n' +
+    '📝 https://www.bullmarketing.com.co/formulario-hoja-de-vida/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a29b2c1f55de4bf26de0e9d9451528e8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FFB1B67BDE4150FDAF',
+    participant: undefined
+  },
+  messageTimestamp: 1693787854,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B82F44BD573593184D',
+    participant: undefined
+  },
+  messageTimestamp: 1693787857,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904f2596-c924-4f04-bba3-099541d39272',
+  keyword: 'key_a0bd4871-b425-4b5d-afb8-1eae82a10412',
+  answer: '🙌 Para brindarnos tu comentario, PQR o reseña puedes escribirnos en:\n' +
+    ' \n' +
+    '✔️ https://www.bullmarketing.com.co/contactenos/\n' +
+    ' \n' +
+    'También a nuestro correo electrónico:\n' +
+    ' \n' +
+    '✔️ info@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab53e0ca585e0a75e7115c62262b9368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08AC350A0BFB3744113',
+    participant: undefined
+  },
+  messageTimestamp: 1693787859,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0129B5525A0553448D8',
+    participant: undefined
+  },
+  messageTimestamp: 1693787862,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5fcc725c-5b9b-41d5-b52b-7fb8a3b885e3',
+  keyword: 'key_a2475f45-a2cd-495b-aae0-9732d4317fb9',
+  answer: '¡Claro! Estamos aquí para brindarte el mejor acompañamiento dentro de tus procesos de selección y nómina, para ello puedes seleccionar alguna de la siguientes opciones:\n' +
+    ' \n' +
+    'Nómina y seguridad social:\n' +
+    ' \n' +
+    '☞ https://hab.me/hqdNmzC\n' +
+    ' \n' +
+    'Contratación y afiliaciones:\n' +
+    ' \n' +
+    '☞ https://hab.me/lyIqKnS\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '787d2411b045ef41f60427614200ebed'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05D520D02FF22A83185',
+    participant: undefined
+  },
+  messageTimestamp: 1693787969,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08A2F2887EB590B1385',
+    participant: undefined
+  },
+  messageTimestamp: 1693787973,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E8672ABD8E43A7E130',
+    participant: undefined
+  },
+  messageTimestamp: 1693787977,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'asesor',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'asesor',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03BFEFED8E905545FEF',
+    participant: undefined
+  },
+  messageTimestamp: 1693787980,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'asesor',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'asesor',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DE5C4A83447E1F1AE4',
+    participant: undefined
+  },
+  messageTimestamp: 1693787990,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'apoyo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'apoyo',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EFBFAD5AFB332C0F1B',
+    participant: undefined
+  },
+  messageTimestamp: 1693787993,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'apoyo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'apoyo',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '1A2A61A80E998D19444E5BF0C5F8C186',
+    participant: undefined
+  },
+  messageTimestamp: 1693788057,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '7F37B14A3412F9892E92BF99FF7F2175',
+    participant: undefined
+  },
+  messageTimestamp: 1693788062,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '91E606C6B00F34EC29D36C8AFD5FDAAA',
+    participant: undefined
+  },
+  messageTimestamp: 1693788066,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '666127EA558CC3D5AA8524C99AA7B09B',
+    participant: undefined
+  },
+  messageTimestamp: 1693788068,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d104f106-267a-4339-92f5-5e546e68792c',
+  keyword: 'key_a36cb7b8-4f03-44cf-b52c-cd4a6b1a825b',
+  answer: '🚀 Para trabajar con nosotros es muy sencillo, compártenos tu hoja de vida indicando el puesto que deseas ocupar o para la vacante en la cuál deseas participar en los siguientes correos:\n' +
+    ' \n' +
+    '➜📬 alejandra.quintero@bullmarketing.com.co\n' +
+    '➜📬 kimberly.parra@bullmarketing.com.co\n' +
+    ' \n' +
+    'O también puedes diligenciar el siguiente formulario:\n' +
+    ' \n' +
+    '📝 https://www.bullmarketing.com.co/formulario-hoja-de-vida/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b38a2f03af938e9834f6bbf85ee23ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: 'B55F4AB3AA1315F71C385CFC98F089C2',
+    participant: undefined
+  },
+  messageTimestamp: 1693788077,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '7F136879A15267F4EE1D0CD760386394',
+    participant: undefined
+  },
+  messageTimestamp: 1693788078,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904f2596-c924-4f04-bba3-099541d39272',
+  keyword: 'key_a0bd4871-b425-4b5d-afb8-1eae82a10412',
+  answer: '🙌 Para brindarnos tu comentario, PQR o reseña puedes escribirnos en:\n' +
+    ' \n' +
+    '✔️ https://www.bullmarketing.com.co/contactenos/\n' +
+    ' \n' +
+    'También a nuestro correo electrónico:\n' +
+    ' \n' +
+    '✔️ info@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab53e0ca585e0a75e7115c62262b9368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '837F1EC837F6A1B871C0B403C1214C63',
+    participant: undefined
+  },
+  messageTimestamp: 1693788312,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: 'B0FB36D590DC2FE9B3E4CD51F91E057C',
+    participant: undefined
+  },
+  messageTimestamp: 1693788374,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d104f106-267a-4339-92f5-5e546e68792c',
+  keyword: 'key_a36cb7b8-4f03-44cf-b52c-cd4a6b1a825b',
+  answer: '🚀 Para trabajar con nosotros es muy sencillo, compártenos tu hoja de vida indicando el puesto que deseas ocupar o para la vacante en la cuál deseas participar en los siguientes correos:\n' +
+    ' \n' +
+    '➜📬 alejandra.quintero@bullmarketing.com.co\n' +
+    '➜📬 kimberly.parra@bullmarketing.com.co\n' +
+    ' \n' +
+    'O también puedes diligenciar el siguiente formulario:\n' +
+    ' \n' +
+    '📝 https://www.bullmarketing.com.co/formulario-hoja-de-vida/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b38a2f03af938e9834f6bbf85ee23ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: 'F60A1E1D1AC14622944F967A8B099953',
+    participant: undefined
+  },
+  messageTimestamp: 1693788376,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: 'A291AD310F092F812ED1B93361EF1531',
+    participant: undefined
+  },
+  messageTimestamp: 1693788712,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Igfjlkfd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Igfjlkfd',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '2694DBD01B47B5CF11BB285FB3D63D89',
+    participant: undefined
+  },
+  messageTimestamp: 1693788717,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jejdjdbso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jejdjdbso',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC7E2DBDFDA0A83AC6DF50416F78CC2',
+    participant: undefined
+  },
+  messageTimestamp: 1693788720,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sksjwbw',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sksjwbw',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '0EEBA5F3648E046CF82168F7BFB5A2D1',
+    participant: undefined
+  },
+  messageTimestamp: 1693788734,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '3102969532',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3102969532',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '9DC198C21DC6A9E038B1C291141DF638',
+    participant: undefined
+  },
+  messageTimestamp: 1693788740,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Djjwjw',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Djjwjw',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '90234DB08225A9DEFD2F2C73E762C5DA',
+    participant: undefined
+  },
+  messageTimestamp: 1693788746,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: 'C6F23236A2708FC1FABB7C86BD703EF4',
+    participant: undefined
+  },
+  messageTimestamp: 1693788746,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d104f106-267a-4339-92f5-5e546e68792c',
+  keyword: 'key_a36cb7b8-4f03-44cf-b52c-cd4a6b1a825b',
+  answer: '🚀 Para trabajar con nosotros es muy sencillo, compártenos tu hoja de vida indicando el puesto que deseas ocupar o para la vacante en la cuál deseas participar en los siguientes correos:\n' +
+    ' \n' +
+    '➜📬 alejandra.quintero@bullmarketing.com.co\n' +
+    '➜📬 kimberly.parra@bullmarketing.com.co\n' +
+    ' \n' +
+    'O también puedes diligenciar el siguiente formulario:\n' +
+    ' \n' +
+    '📝 https://www.bullmarketing.com.co/formulario-hoja-de-vida/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b38a2f03af938e9834f6bbf85ee23ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB016C444B9F0ECF0491D',
+    participant: undefined
+  },
+  messageTimestamp: 1693789747,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Dámelo',
+  body: 'hola',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F66B54910B697D5FC3',
+    participant: undefined
+  },
+  messageTimestamp: 1693789754,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Dámelo',
+  body: 'hola',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  keyword: 'key_655ba57e-6c58-46a7-9c4e-62351ed2d45f',
+  answer: 'Hola 👋, bienvenido a Bull Marketing la agencia donde ¡siempre se puede!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '469b3bda14c7d4129a77f45209482b87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  keyword: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  answer: 'Para brindarte un servicio más personalizado compartenos los siguientes datos:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79b5a4a6ef2721ddf5eac4bc7d26fbc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  keyword: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  answer: '¿Cúal es tu nombre completo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '13c29a85336c11934a3ccfdcaa8a6311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03E220BE02552F8DD75',
+    participant: undefined
+  },
+  messageTimestamp: 1693789758,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  keyword: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  answer: '¿Cúal es tu número telefónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c43f405156b62f399a15cb4c56f08ef2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F8E4C03498630427D9',
+    participant: undefined
+  },
+  messageTimestamp: 1693789765,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3102969532',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3102969532',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F7507F278585C1954F',
+    participant: undefined
+  },
+  messageTimestamp: 1693789774,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james.vallejo@',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james.vallejo@',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02B0FB5DEB93DCB1964',
+    participant: undefined
+  },
+  messageTimestamp: 1693789785,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james.vallejo@',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james.vallejo@',
+  from: '573102969532'
+}
+Error al encolar: undefined
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CF8B6254EB46BF35BC',
+    participant: undefined
+  },
+  messageTimestamp: 1693789791,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james.vallejo@',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james.vallejo@',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dbcf4bce-7ba7-48f6-b884-be88888b0153',
+  keyword: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  answer: '¡Comencemos! ¿En que te podemos ayudar? 🙌\n' +
+    'Estas son nuestras opciones:\n' +
+    ' \n' +
+    '👉 *1.Cotizar* Deseo cotizar un servicio.\n' +
+    '👉 *2.Vacantes* Deseo trabajar con ustedes.\n' +
+    '👉 *3.Comentario* Deseo dejar un comentario.\n' +
+    '👉 *4.RRHH* Deseo comunicarme con Recurso Humano.\n' +
+    '👉 *5.Contabilidad* Deseo comunicarme con Contabilidad.\n' +
+    '👉 *6.Tesorería* Deseo comunicarme con Tesorería.\n' +
+    '👉 *7.Proveedores* Deseo comunicarme con Proveedores y Compras.\n' +
+    '👉 *8.Certificaciones* Certificaciones laborales',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '314ed6fb594b011d4bafbc61be5d95ad'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07697018C4D2C52DA7C',
+    participant: undefined
+  },
+  messageTimestamp: 1693789809,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '079dba9e0617126046c81ffe8c3d642c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB081F01778393C8B0355',
+    participant: undefined
+  },
+  messageTimestamp: 1693789813,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A1BFC5DF18A91CB111',
+    participant: undefined
+  },
+  messageTimestamp: 1693790064,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'HOLA',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Dámelo',
+  body: 'HOLA',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  keyword: 'key_655ba57e-6c58-46a7-9c4e-62351ed2d45f',
+  answer: 'Hola 👋, bienvenido a Bull Marketing la agencia donde ¡siempre se puede!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '469b3bda14c7d4129a77f45209482b87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  keyword: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  answer: 'Para brindarte un servicio más personalizado compartenos los siguientes datos:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79b5a4a6ef2721ddf5eac4bc7d26fbc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  keyword: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  answer: '¿Cúal es tu nombre completo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '13c29a85336c11934a3ccfdcaa8a6311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CBF99166F1218C5E0F',
+    participant: undefined
+  },
+  messageTimestamp: 1693790072,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james vallejo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james vallejo',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  keyword: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  answer: '¿Cúal es tu número telefónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c43f405156b62f399a15cb4c56f08ef2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A2153FF3FE39104E1B',
+    participant: undefined
+  },
+  messageTimestamp: 1693790081,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3102969532',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3102969532',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C08E2D326127DC1814',
+    participant: undefined
+  },
+  messageTimestamp: 1693790090,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james@',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james@',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04FF0DF70E6F86E9210',
+    participant: undefined
+  },
+  messageTimestamp: 1693790097,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james@',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james@',
+  from: '573102969532'
+}
+Error al encolar: undefined
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EB30AFCE65B22A0527',
+    participant: undefined
+  },
+  messageTimestamp: 1693790103,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '@',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '@',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A935A9CA76EF1AE44E',
+    participant: undefined
+  },
+  messageTimestamp: 1693790109,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '@',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '@',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FB9AE2B5FE70DB9ECC',
+    participant: undefined
+  },
+  messageTimestamp: 1693790121,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james@bull',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james@bull',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BCD3C8EE395962BE90',
+    participant: undefined
+  },
+  messageTimestamp: 1693790130,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james@bull',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james@bull',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0249B9643049B03E773',
+    participant: undefined
+  },
+  messageTimestamp: 1693790137,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C54245C3DEED60B3BB',
+    participant: undefined
+  },
+  messageTimestamp: 1693790140,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  keyword: 'key_655ba57e-6c58-46a7-9c4e-62351ed2d45f',
+  answer: 'Hola 👋, bienvenido a Bull Marketing la agencia donde ¡siempre se puede!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '469b3bda14c7d4129a77f45209482b87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  keyword: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  answer: 'Para brindarte un servicio más personalizado compartenos los siguientes datos:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79b5a4a6ef2721ddf5eac4bc7d26fbc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  keyword: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  answer: '¿Cúal es tu nombre completo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '13c29a85336c11934a3ccfdcaa8a6311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB000999571361EBBD128',
+    participant: undefined
+  },
+  messageTimestamp: 1693790144,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  keyword: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  answer: '¿Cúal es tu número telefónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c43f405156b62f399a15cb4c56f08ef2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB037EFD653BB889C7C63',
+    participant: undefined
+  },
+  messageTimestamp: 1693790147,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '546y4356345',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '546y4356345',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_904f2596-c924-4f04-bba3-099541d39272',
+  keyword: 'key_a0bd4871-b425-4b5d-afb8-1eae82a10412',
+  answer: '🙌 Para brindarnos tu comentario, PQR o reseña puedes escribirnos en:\n' +
+    ' \n' +
+    '✔️ https://www.bullmarketing.com.co/contactenos/\n' +
+    ' \n' +
+    'También a nuestro correo electrónico:\n' +
+    ' \n' +
+    '✔️ info@bullmarketing.com.co\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab53e0ca585e0a75e7115c62262b9368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09D443A78FA99DF8A25',
+    participant: undefined
+  },
+  messageTimestamp: 1693790156,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'gfdgdfg@dfgsdfg',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gfdgdfg@dfgsdfg',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06BB13C573418640D83',
+    participant: undefined
+  },
+  messageTimestamp: 1693790161,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'fdgsfdg@fdsgfds',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'fdgsfdg@fdsgfds',
+  from: '573102969532'
+}
+Error al encolar: undefined
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FC7CCA5449EA9FA678',
+    participant: undefined
+  },
+  messageTimestamp: 1693790178,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'dgsfdg@fdsgfd',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'dgsfdg@fdsgfd',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB055EFD9AEFE5978B7CC',
+    participant: undefined
+  },
+  messageTimestamp: 1693790181,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'dgsfdg@fdsgfd',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'dgsfdg@fdsgfd',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A35779D10B8CA9E161',
+    participant: undefined
+  },
+  messageTimestamp: 1693790223,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A0468AED030D1A5F02',
+    participant: undefined
+  },
+  messageTimestamp: 1693790224,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  keyword: 'key_655ba57e-6c58-46a7-9c4e-62351ed2d45f',
+  answer: 'Hola 👋, bienvenido a Bull Marketing la agencia donde ¡siempre se puede!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '469b3bda14c7d4129a77f45209482b87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  keyword: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  answer: 'Para brindarte un servicio más personalizado compartenos los siguientes datos:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79b5a4a6ef2721ddf5eac4bc7d26fbc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  keyword: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  answer: '¿Cúal es tu nombre completo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '13c29a85336c11934a3ccfdcaa8a6311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A294C26D602FC7C8FD',
+    participant: undefined
+  },
+  messageTimestamp: 1693790227,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'gsgsg',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gsgsg',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  keyword: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  answer: '¿Cúal es tu número telefónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c43f405156b62f399a15cb4c56f08ef2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08F38B082AF06BEF64A',
+    participant: undefined
+  },
+  messageTimestamp: 1693790229,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'fdgsgfds',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'fdgsgfds',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F0941A883F1988ADB9',
+    participant: undefined
+  },
+  messageTimestamp: 1693790237,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james@dfadsff',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james@dfadsff',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dbcf4bce-7ba7-48f6-b884-be88888b0153',
+  keyword: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  answer: '¡Comencemos! ¿En que te podemos ayudar? 🙌\n' +
+    'Estas son nuestras opciones:\n' +
+    ' \n' +
+    '👉 *1.Cotizar* Deseo cotizar un servicio.\n' +
+    '👉 *2.Vacantes* Deseo trabajar con ustedes.\n' +
+    '👉 *3.Comentario* Deseo dejar un comentario.\n' +
+    '👉 *4.RRHH* Deseo comunicarme con Recurso Humano.\n' +
+    '👉 *5.Contabilidad* Deseo comunicarme con Contabilidad.\n' +
+    '👉 *6.Tesorería* Deseo comunicarme con Tesorería.\n' +
+    '👉 *7.Proveedores* Deseo comunicarme con Proveedores y Compras.\n' +
+    '👉 *8.Certificaciones* Certificaciones laborales',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '314ed6fb594b011d4bafbc61be5d95ad'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB001DD070C0B77D33787',
+    participant: undefined
+  },
+  messageTimestamp: 1693790253,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ab389458-f48f-4ebc-af9c-c5fa67c87255',
+  keyword: 'key_cac8c63f-4178-4b46-a887-76feddf7410b',
+  answer: '🙌 ¡Claro! ingresa al siguiente enlace que te direccionará con la persona del área encargada de contabilidad:\n' +
+    ' \n' +
+    '☞ https://bit.ly/3YCPIHx\n' +
+    ' \n' +
+    'También puedes escribirnos a los siguientes correos:\n' +
+    ' \n' +
+    '☞ contadores@bullmarketing.com.co\n' +
+    '☞ contabilidad@v2vmarketing.com\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e6e2b2b9a2e5dc6c540c9d1aa8b61df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06085C0608CD7C56A8D',
+    participant: undefined
+  },
+  messageTimestamp: 1693790257,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0770B50C5460EF0AB1E',
+    participant: undefined
+  },
+  messageTimestamp: 1693791371,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'HOLA',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Dámelo',
+  body: 'HOLA',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  keyword: 'key_655ba57e-6c58-46a7-9c4e-62351ed2d45f',
+  answer: 'Hola 👋, bienvenido a Bull Marketing la agencia donde ¡siempre se puede!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '469b3bda14c7d4129a77f45209482b87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  keyword: 'ans_ec1cc14f-490d-4036-883d-8d781f2f13f9',
+  answer: 'Para brindarte un servicio más personalizado compartenos los siguientes datos:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79b5a4a6ef2721ddf5eac4bc7d26fbc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  keyword: 'ans_c5df724f-3458-4998-ad8a-276e9eb3b5c1',
+  answer: '¿Cúal es tu nombre completo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '13c29a85336c11934a3ccfdcaa8a6311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D1CFC3E94EE5794C5F',
+    participant: undefined
+  },
+  messageTimestamp: 1693791377,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james vallejo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james vallejo',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  keyword: 'ans_f1a038bb-9401-45a8-91da-4454dd2adaed',
+  answer: '¿Cúal es tu número telefónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c43f405156b62f399a15cb4c56f08ef2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EF3D8D2F1D6462AB18',
+    participant: undefined
+  },
+  messageTimestamp: 1693791382,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3102969532',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3102969532',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+Error al encolar: undefined
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  keyword: 'ans_c2ffc240-1955-4053-9ba0-3d1a40193ac4',
+  answer: '¿Cúal es tu correo electrónico?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'aa6981a4a1c397a2e496571b818c0868'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DA409B87FBB2235F0B',
+    participant: undefined
+  },
+  messageTimestamp: 1693791404,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'james@',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'james@',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dbcf4bce-7ba7-48f6-b884-be88888b0153',
+  keyword: 'ans_ec72ce1d-5d6a-4a02-92a4-840db8122d29',
+  answer: '¡Comencemos! ¿En que te podemos ayudar? 🙌\n' +
+    'Estas son nuestras opciones:\n' +
+    ' \n' +
+    '👉 *1.Cotizar* Deseo cotizar un servicio.\n' +
+    '👉 *2.Vacantes* Deseo trabajar con ustedes.\n' +
+    '👉 *3.Comentario* Deseo dejar un comentario.\n' +
+    '👉 *4.RRHH* Deseo comunicarme con Recurso Humano.\n' +
+    '👉 *5.Contabilidad* Deseo comunicarme con Contabilidad.\n' +
+    '👉 *6.Tesorería* Deseo comunicarme con Tesorería.\n' +
+    '👉 *7.Proveedores* Deseo comunicarme con Proveedores y Compras.\n' +
+    '👉 *8.Certificaciones* Certificaciones laborales',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '314ed6fb594b011d4bafbc61be5d95ad'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB073970189CB3176DF61',
+    participant: undefined
+  },
+  messageTimestamp: 1693791412,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '6456',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6456',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5fcc725c-5b9b-41d5-b52b-7fb8a3b885e3',
+  keyword: 'key_a2475f45-a2cd-495b-aae0-9732d4317fb9',
+  answer: '¡Claro! Estamos aquí para brindarte el mejor acompañamiento dentro de tus procesos de selección y nómina, para ello puedes seleccionar alguna de la siguientes opciones:\n' +
+    ' \n' +
+    'Nómina y seguridad social:\n' +
+    ' \n' +
+    '☞ https://hab.me/hqdNmzC\n' +
+    ' \n' +
+    'Contratación y afiliaciones:\n' +
+    ' \n' +
+    '☞ https://hab.me/lyIqKnS\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7591d08927e86f7e20b600398e8c1d4e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB090B3DEE6AE2EEE19B7',
+    participant: undefined
+  },
+  messageTimestamp: 1693791416,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FA8120254B06D4E43A',
+    participant: undefined
+  },
+  messageTimestamp: 1693791419,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02747C2363FAD192479',
+    participant: undefined
+  },
+  messageTimestamp: 1693791426,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C2475D87B0F1386201',
+    participant: undefined
+  },
+  messageTimestamp: 1693791433,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f21f2c8d-c767-4c2f-8d9d-7f5f019a25cc',
+  keyword: 'key_45e6a9fc-2f60-4d42-a167-ae9c3a49b692',
+  answer: '¡Claro! queremos escucharte y sorprenderte, para comunicarte con alguien de nuestro equipo comercial ingresa a una de las siguientes opciones:\n' +
+    ' \n' +
+    '📲 https://hab.me/A12z8BH\n' +
+    '📲 https://hab.me/kthQ9LK\n' +
+    ' \n' +
+    '🧲 Para servicios de Marketing Digital y Desarrollo Web 💻\n' +
+    ' \n' +
+    '📲 https://hab.me/dheZya1\n' +
+    ' \n' +
+    'También puedes compartirnos tu Brief o idea en el siguiente enlace:\n' +
+    'https://www.bullmarketing.com.co/cuentanos-brief/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '228ff7f44d24aa757752b39b9afd10c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03FC5AD4075645AD94B',
+    participant: undefined
+  },
+  messageTimestamp: 1693791437,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102969532@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03A1A5EE8644720E3DF',
+    participant: undefined
+  },
+  messageTimestamp: 1693791439,
+  pushName: 'Dámelo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573102969532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d104f106-267a-4339-92f5-5e546e68792c',
+  keyword: 'key_a36cb7b8-4f03-44cf-b52c-cd4a6b1a825b',
+  answer: '🚀 Para trabajar con nosotros es muy sencillo, compártenos tu hoja de vida indicando el puesto que deseas ocupar o para la vacante en la cuál deseas participar en los siguientes correos:\n' +
+    ' \n' +
+    '➜📬 alejandra.quintero@bullmarketing.com.co\n' +
+    '➜📬 kimberly.parra@bullmarketing.com.co\n' +
+    ' \n' +
+    'O también puedes diligenciar el siguiente formulario:\n' +
+    ' \n' +
+    '📝 https://www.bullmarketing.com.co/formulario-hoja-de-vida/\n' +
+    ' \n' +
+    '*_Nuestros tiempos de respuesta pueden variar de acuerdo a la solicitud por lo cual permitenos y en un lapsus inferior a las 48hrs te estaremos contáctando._*\n' +
+    ' \n' +
+    '\n' +
+    '*Recepción* Para contacto con una persona.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b38a2f03af938e9834f6bbf85ee23ca'
+}

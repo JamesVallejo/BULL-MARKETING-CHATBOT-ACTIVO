@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "chatbot-bull-marketing-mbmd",
+    "private_key_id": "1b54f822ea15fb0c1b136ee8cc79e0ae297b232d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfSdy3aJA1F/Bf\nyVBj0AXhQRBma4KAkGiK1zfx2QJrzvwxJiMHO1VmWsaQ7qUKX6sjL7aV8/Gs+Ls4\nC6PVzuvSIoDz2KL1DHN4Hi9ZW9vlhLWVXTd87wp5QEL50nZEtVBTkcMesoF0F7ZC\n/ML0nr15scciPwX5VxPBq7pnjiA/quBtTFG43GFrJExZjMr6wKnEotxU2VhnySoo\nnejiBDKtqY3QHCL6hEXtXWPLCuSlIC8ysPeES1Ws8tx+H3rNhlDIOHt+dmoALZsv\ntCbPeex1an2yfhgF+/oXzEllvf+WJv0NXH3c7l7SJOmOpbayW9trr2nw3P7WgkUO\nK8UsNfPHAgMBAAECggEAbDJB0dvImPmXIAsQObVoy/w3orFwxLR0++YKtVW27x+W\no4g7y/rLyHOvKTaCYZL2/e9WVbYlwu+p5J/7TRTdv265tq8gU4argyZ5Qh8ZYE+c\nn5pSU2cPV660ZZK+fU+wczY76qmLwgHlbvNE0r0Cyi/Dcww/7FDuAVgh1KERbleK\neOJ1RtepaS4zgEiwe2OC5+FcSms2ATxvDuR7xp1w/XfF7K+puyPYjGz7hIbUP3tK\nOAvR0e5Q7zNjwpKeZuhLEsec5yA050XT3YM+ymedVgqgKLZ94BaUm7ra3gAuIVoN\np/lAhqcfEYu3Qw4unhvHFYKL3P9FXTFDqic6naM2BQKBgQDzBt7qAgBJh5dlO/pk\n90yPcYWyPa5ecfNsSMqM5RZd8VoDk+Uki7O/J9LL8jTMKhOo1ho9kTOd2e0xVydl\n8fMwpc/jocO3HpOsZIRP4tKWqFZkTDrfoqCvXuZFUpLQvhLO3brlDaByw/SFIORq\nVpKY3D7206DlE6lLMDc1XPgDlQKBgQDrNUD1JvL8SLkuqgDAiJ5vQXxTwd/1Sw9X\nddzsOYpei4JeG5X5KIbv3Xu6fp1xPNCn2pVM8z2dkolvf6QJxOWGUcNvXCi4eNJ4\nSxM8R0m/xSuvYcymOSbdBWF6hn5taGppmyJN5ok2I0d8TeKP37wsxa/fkCXqvE8M\nMfSSWZWC6wKBgBqtVGbnlVR899d6//95TgQo9/4a2zsu0wO98c4Jj6z8Q19FKtAa\nLb78Bh2xFq6ap9HOvs6nU70uIOVbpc2BA6sBaJKaPTuqtZck6YlDYs566BDWdVf7\nKBxYFHrjl44mbzYaDNv75PL0I7FBbRFnM2xoMNkzXeQHhnvkbQsEi40JAoGBAIrS\n1rEbOQVQgwQY0PLSb/iohRIGdwIXOEndxfQjDhk5bEvRKlZx5hrC9dkgDBse0uSP\nbdmKI47SQ43sn0woy3PY5Gng0iP3I/peDU9hoBSw8lTEe36McvS2zU78/LfkjhIg\nv0GNVOUAM5wZeCSE4FLopyJjuQ1v8ZP4FCsg9s7bAoGBANJ1cfTE6eUTaaOX/E/P\n3CUbvVoW3qg6SSMKdZtTUvsD3jjdbtz5KEptodGOU/P6NUCgMpIikgZuUrsuLcJd\ncmwRfU0NLDgWwAgQ7q9oNM8X9rieI55LGbROmEgwwainm39J/olpsk+ntSAODVFg\n4QN3N5YH8+PGZ6evUsPSdW+6\n-----END PRIVATE KEY-----\n",
+    "client_email": "bullmarketingchatbotia@chatbot-bull-marketing-mbmd.iam.gserviceaccount.com",
+    "client_id": "102574211713897328736",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bullmarketingchatbotia%40chatbot-bull-marketing-mbmd.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }

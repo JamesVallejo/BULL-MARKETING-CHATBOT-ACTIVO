@@ -178,10 +178,7 @@ const flowPrincipal = addKeyword(['hola', 'holi', 'holu', 'ole', 'alo','oli', 'b
     .addAnswer(
         [
             {
-                media: {
-                    type: 'image',
-                    url: 'https://www.bullmarketing.com.co/wp-content/uploads/2022/09/Artboard-18-BULL-PARRILLA.jpg',
-                },
+                media:'https://www.bullmarketing.com.co/wp-content/uploads/2022/09/Artboard-18-BULL-PARRILLA.jpg',
             },            
             '¡Comencemos! ¿En que te podemos ayudar? 🙌',
             'Estas son nuestras opciones:',
